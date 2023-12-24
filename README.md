@@ -4,10 +4,10 @@ This a project to create an open source 3D probe for DIY CNC people. We have a g
 
 Current status 12/24/2023
 
-The first cut of the PCB has been built and tested. A second version has been sent out for fabrication.  It moves the sensing balls closer and increase the center hole size to allow a larger spider arbor.
+The first cut of the PCB, V0.90 has been built and tested. A second version, V0.91 has been sent out for fabrication.  It moves the sensing balls closer and increase the center hole size to allow a larger spider arbor.
 ![V0.91 PCB](https://github.com/phil-barrett/tri-axial-probe/blob/main/images/3D%20Probe%20V0.91.png "V0.911 PCB")
 
-Here is the first version of the probe, exploded to see the internal components. The barrel that holds it together is omitted for clarity. 
+Here is the first version of the probe, V0.91, exploded to see the internal components. The barrel that holds it together is omitted for clarity. This is a work in progress so it will change.
 ![V0.91 Exploded](https://github.com/phil-barrett/tri-axial-probe/blob/main/images/probe%20exploded%20V0.91.png "V0.91 Exploded")
 ## Project Goals
 
