@@ -10,7 +10,7 @@ The first cut of the PCB, V0.90 has been built and tested. A second version, V0.
 Here is the first version of the probe, V0.91, exploded to see the internal components. The barrel that holds it together is omitted for clarity. This is a work in progress so it will change.
 ![V0.91 Exploded](https://github.com/phil-barrett/tri-axial-probe/blob/main/images/probe%20exploded%20V0.91.png "V0.91 Exploded")
 
-The heart of the TriAx probe is the Spider Core that uses the sensing balls as part of a switch.  Lateral or horizontal force will cause the spider pins to lift off the balls and break contact.  The PCB circuit is designed to turn this into NO and NC signals.
+The heart of the TriAx probe is the Spider Core that uses the sensing balls as part of a switch.  Lateral or vertical force on the probe tip will cause the spider pins to lift off the balls and break contact.  The PCB circuit is designed to turn this into NO and NC signals.
 ![V0.91 Spider Core Exploded](https://github.com/phil-barrett/tri-axial-probe/blob/main/images/spider%20core%20exploded.png "V0.91 Spider Core Exploded")
 
 
