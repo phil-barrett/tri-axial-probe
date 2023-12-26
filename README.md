@@ -1,6 +1,6 @@
 # TriAxial Probe
 
-This a project to create an open source 3D probe for DIY CNC people. We have a goal of providing the basic design and instructions for building.  Component kits may be available. 
+This is a project to create an open hardware 3D probe for DIY CNC people. We have a goal of providing the basic design and instructions for building. See below for complete project goals.  Component kits may be available. 
 
 Current status 12/24/2023
 
